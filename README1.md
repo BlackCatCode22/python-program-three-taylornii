@@ -1,4 +1,4 @@
-"""Python Program Three 
+Python Program Three 
 
 Program consists of three major functionalities: 
   1) to be able to add a contact to the contact list called contacts 
